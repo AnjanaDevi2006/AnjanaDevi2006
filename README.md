@@ -32,10 +32,6 @@ I'm currently working on<br>- **Q-Twin** – Quantum-AI Digital Twin for Predict
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnjanaDevi2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-
-
-
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
