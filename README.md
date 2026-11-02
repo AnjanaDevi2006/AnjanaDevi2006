@@ -25,12 +25,14 @@ I'm currently working on<br>- **Q-Twin** – Quantum-AI Digital Twin for Predict
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnjanaDevi2006&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=AnjanaDevi2006&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-
-
 
 <h2 align="center">🏆 Top Contributed Repositories</h2>
 
